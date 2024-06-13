@@ -1,9 +1,12 @@
 # AirVortexRingGenerator
 The AVRG projects vortex rings while mounted on a 2-axis gimbal platform. The toroidal vortices can driven by solenoids imparting an impulse into an air chamber. The generated jet of air entrails the slower air outside of the chamber causing it to form a vortex ring. The platform itself is driven by MG996R servo motors which are controlled by two rotary encoders.
 
-![avrg_v2_isometric](https://github.com/kedsuzuki/AirVortexRingGenerator/assets/66259138/7177df68-7f74-4bd9-bf54-343e00044053) ![avrg_v2_rear](https://github.com/kedsuzuki/AirVortexRingGenerator/assets/66259138/877bde7b-023d-40ae-bd1c-3076e9c06883)
-Fig 1. Front and Rear view of the AVRG device. 
+<img src="https://github.com/kedsuzuki/AirVortexRingGenerator/assets/66259138/7177df68-7f74-4bd9-bf54-343e00044053" width="50%" height="50%">
+<img src="https://github.com/kedsuzuki/AirVortexRingGenerator/assets/66259138/877bde7b-023d-40ae-bd1c-3076e9c06883" width="50%" height="50%">
 
+Fig 1. Front and Rear view of the AVRG device. 
+![test](https://github.com/favicon.ico)
+<img src="https://github.com/favicon.ico" width="48">
 ## Hardware
 * 12V, 500mA Solenoids (4mm stroke length)
 * MG996R Servo Motors
